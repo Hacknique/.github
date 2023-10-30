@@ -12,6 +12,7 @@ Hacknique is a community driven organization devoted to the creation and mainten
 ## Pinned Repositories
 
 - [Modular Computers](https://github.com/Hacknique/modular_computers)
+- [Voxey](https://github.com/Hacknique/Voxey)
 
 ## Contributing
 
